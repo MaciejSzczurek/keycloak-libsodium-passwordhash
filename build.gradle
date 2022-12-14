@@ -14,9 +14,9 @@ repositories {
 sourceCompatibility = JavaVersion.VERSION_11
 
 dependencies {
-    compileOnly 'org.keycloak:keycloak-core:20.0.1'
-    compileOnly 'org.keycloak:keycloak-server-spi:20.0.1'
-    compileOnly 'org.keycloak:keycloak-server-spi-private:20.0.1'
+    compileOnly 'org.keycloak:keycloak-core:20.0.2'
+    compileOnly 'org.keycloak:keycloak-server-spi:20.0.2'
+    compileOnly 'org.keycloak:keycloak-server-spi-private:20.0.2'
     implementation 'com.goterl:lazysodium-java:5.1.4'
     implementation 'net.java.dev.jna:jna:5.12.1'
     implementation 'org.jetbrains:annotations:23.1.0'
