@@ -11,7 +11,7 @@ repositories {
     mavenCentral()
 }
 
-sourceCompatibility = JavaVersion.VERSION_11
+sourceCompatibility = JavaVersion.VERSION_17
 
 dependencies {
     compileOnly 'org.keycloak:keycloak-core:21.0.0'
