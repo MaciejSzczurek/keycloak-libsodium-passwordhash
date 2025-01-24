@@ -19,6 +19,6 @@ dependencies {
     compileOnly 'org.keycloak:keycloak-server-spi-private:26.1.0'
     implementation 'com.goterl:lazysodium-java:5.1.4'
     implementation 'net.java.dev.jna:jna:5.14.0'
-    implementation 'org.jetbrains:annotations:26.0.1'
+    implementation 'org.jetbrains:annotations:26.0.2'
     spotbugsPlugins 'com.h3xstream.findsecbugs:findsecbugs-plugin:1.13.0'
 }
